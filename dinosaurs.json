@@ -1,0 +1,39 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "small dionosaurs",
+			"url": "http://d3i3l3kraiqpym.cloudfront.net/wp-content/uploads/2015/10/01194115/T-Rex-skeleton-will-be-placed-in-museum.jpg",
+
+		},
+		{
+	"dinosaurs": [
+		{
+			"name": "pointy",
+			"type": "triceratops",
+			"food": "plants",
+			"url": "http://images.dinosaurpictures.org/triceratops-dinossauro-herbivoro-cretaceo-miniatura-safari_MLB-F-4535322572_062013_52bf.jpg",
+
+		},
+		{
+	"dinosaurs": [
+		{
+			"name": "poly",
+			"type": "pterodactyl",
+			"food": "fish",
+			"url": "http://images.dinosaurpictures.org/pterodactyl_532f.jpg",
+
+		},
+		{
+	"dinosaurs": [
+		{
+			"name": "swimmy",
+			"type": "liopleurodon",
+			"food": "small fish",
+			"url": "http://images.dinosaurpictures.org/liopleurodon_f0a6.jpg",
+
+		}	
+	]
+}	
+	
